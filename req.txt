@@ -1,0 +1,7 @@
+tensorflow[and-cuda]==2.10.0
+jupyter
+matplotlib
+torch==1.12.1
+transformers
+datasets
+accelerate
